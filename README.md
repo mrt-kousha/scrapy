@@ -3,4 +3,4 @@ In this repository, I try to uncover some of the little tips and tricks that I u
 
 
 
-# follow wiki for more information
+## Follow wiki for more information and tutorials
