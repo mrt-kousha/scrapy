@@ -1,2 +1,2 @@
 # scrapy
-In this repository, I try to uncover some of the tips and programs I used to work with the scrapy framework.
+In this repository, I try to uncover some of the little tips and tricks that I used to work with the scrapy framework. 
