@@ -55,10 +55,10 @@ DEFAULT_REQUEST_HEADERS = {
 
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
-DOWNLOADER_MIDDLEWARES = {
-   'tutorial.middlewares.middlewares.TutorialDownloaderMiddleware': 543,
-   'tutorial.middlewares.Tor.TorMiddleware': 100,	
-}
+# DOWNLOADER_MIDDLEWARES = {
+#    'tutorial.middlewares.middlewares.TutorialDownloaderMiddleware': 543,
+#    'tutorial.middlewares.Tor.TorMiddleware': 100,	
+# }
 
 # Enable or disable extensions
 # See https://doc.scrapy.org/en/latest/topics/extensions.html
