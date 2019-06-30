@@ -1,5 +1,5 @@
 # scrapy
-In this repository, I try to share some of the little tips and tricks and amazing spiders, that I used to work with the scrapy framework. 
+In this repository, I try to share some of the little tips and tricks and amazing spiders that I used to work with on the scrapy framework. 
 
 
 
